@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/jb-auto/static/css/main.04126f89.css",
-    "main.js": "/jb-auto/static/js/main.71ed24b9.js",
+    "main.js": "/jb-auto/static/js/main.bae6661c.js",
     "static/media/hatchback.png": "/jb-auto/static/media/hatchback.6b9f052e95624134a6ff.png",
     "static/media/tool-box.png": "/jb-auto/static/media/tool-box.f99cf336bcfa06123f85.png",
     "index.html": "/jb-auto/index.html",
     "main.04126f89.css.map": "/jb-auto/static/css/main.04126f89.css.map",
-    "main.71ed24b9.js.map": "/jb-auto/static/js/main.71ed24b9.js.map"
+    "main.bae6661c.js.map": "/jb-auto/static/js/main.bae6661c.js.map"
   },
   "entrypoints": [
     "static/css/main.04126f89.css",
-    "static/js/main.71ed24b9.js"
+    "static/js/main.bae6661c.js"
   ]
 }
